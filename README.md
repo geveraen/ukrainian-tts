@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/5759207/224504363-0227e8bf-8c1c-49ad-8
 
 Install using: 
 ```bash
-!pip install git+https://github.com/robinhad/ukrainian-tts.git
+!pip install git+https://github.com/geveraen/ukrainian-tts.git
 ```
 Code example:
 ```python
